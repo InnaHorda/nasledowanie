@@ -49,7 +49,7 @@ namespace nasledowanie
 
         public void PrintC()
         {
-            Console.WriteLine("первая точка кординат x: {0}, вторая кордината У:{1},радиус круга: {2}", x, y, radius);
+            Console.WriteLine("первая точка кординат x: {0}, вторая кординаты У:{1},радиус круга: {2}", x, y, radius);
         }
     }
 
