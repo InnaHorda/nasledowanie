@@ -66,7 +66,7 @@ namespace nasledowanie
                 {
                     int choose = int.Parse(Console.ReadLine());
                     if (choose == 1)
-                    { Triangle triangle1 = new Triangle(2, 3, 4, 5);
+                    { Triangle triangle1 = new Triangle(2, 6, 4, 5);
                         Triangle triangle2 = new Triangle(2, 5, 4, 5);
                         triangle2.print();
                         triangle1.Draw(); }
